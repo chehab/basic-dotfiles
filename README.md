@@ -37,7 +37,7 @@ To update later on, just run that command again.
 
 This is Mathias’s dotfiles, With only what I found essential. 
 
-### Author
+### Original Author
 
 | [![twitter/mathias](http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](http://twitter.com/mathias "Follow @mathias on Twitter") |
 |---|
